@@ -1,0 +1,133 @@
+<topic xml:space="preserve">
+	<TopicInfo>
+		<Type>a54295da-034d-442f-940e-b1afdb8eab58</Type>
+		<Category>conceptual</Category>
+	</TopicInfo>
+	<headerInfo>
+		<title>Uninstall-Module</title>
+		<runningHeaderTextId>b1b997af-3127-4001-b77b-5263e4496939</runningHeaderTextId>
+	</headerInfo>
+	<topic id="11456965-b9b2-4f57-a5ec-af89a62cc4e8">
+		<PSCmdletHelpContent xmlns="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink">
+			<title xmlns="">Uninstall-Module</title>
+			<cmdletDescription noun="Module" verb="Uninstall">
+				<synopsis>Uninstalls specified modules from a system.</synopsis>
+				<detailedDescription>
+					<p xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:tool="http://www.microsoft.com/tooltip">
+					</p>
+				</detailedDescription>
+			</cmdletDescription>
+			<cmdletModule>
+			</cmdletModule>
+			<cmdletAliases>
+				<cmdletAlias>
+				</cmdletAlias>
+			</cmdletAliases>
+			<cmdletParameters>
+				<cmdletParameter paramValueReq="false" paramValueVarLength="0">
+					<parameterName>
+					</parameterName>
+					<type>
+					</type>
+					<description>
+						<p xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:tool="http://www.microsoft.com/tooltip">
+						</p>
+					</description>
+					<parameterSets>
+						<parameterSet position="0">
+						</parameterSet>
+					</parameterSets>
+				</cmdletParameter>
+				<cmdletParameter paramValueReq="true" paramValueVarLength="true">
+					<parameterName>
+					</parameterName>
+					<type>
+					</type>
+					<description>
+						<p xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:tool="http://www.microsoft.com/tooltip">
+						</p>
+					</description>
+					<parameterSets>
+						<parameterSet position="0">
+						</parameterSet>
+					</parameterSets>
+				</cmdletParameter>
+				<cmdletParameter paramValueReq="false" paramValueVarLength="0">
+					<parameterName>
+					</parameterName>
+					<type>
+					</type>
+					<description>
+						<p xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:tool="http://www.microsoft.com/tooltip">
+						</p>
+					</description>
+					<parameterSets>
+						<parameterSet position="0">
+						</parameterSet>
+					</parameterSets>
+				</cmdletParameter>
+			</cmdletParameters>
+			<inputTypes>
+				<inputType>
+					<name>
+					</name>
+					<uri>
+					</uri>
+					<description>
+						<p xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:tool="http://www.microsoft.com/tooltip">
+						</p>
+					</description>
+				</inputType>
+			</inputTypes>
+			<outputTypes>
+				<outputType>
+					<name>
+					</name>
+					<uri>
+					</uri>
+					<description>
+						<p xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:tool="http://www.microsoft.com/tooltip">
+						</p>
+					</description>
+				</outputType>
+			</outputTypes>
+			<cmdletRemarks>
+				<cmdletRemark>
+					<p xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:tool="http://www.microsoft.com/tooltip">
+					</p>
+				</cmdletRemark>
+			</cmdletRemarks>
+			<cmdletCodeExamples>
+				<cmdletCodeExample>
+					<title>
+					</title>
+					<description>
+						<p xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:tool="http://www.microsoft.com/tooltip">
+						</p>
+					</description>
+					<div class="code" xmlns="" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5"><span codeLanguage="PowerShell"><table width="100%" cellspacing="0" cellpadding="0"><tr><th><includeSSC item="PowerShell"></includeSSC> </th><th><span class="copyCode" onclick="CopyCode(this)" onkeypress="CopyCode_CheckKey(this)" onmouseover="ChangeCopyCodeIcon(this)" onfocusin="ChangeCopyCodeIcon(this)" onmouseout="ChangeCopyCodeIcon(this)" onfocusout="ChangeCopyCodeIcon(this)" tabindex="0"><img class="copyCodeImage" name="ccImage" align="absmiddle"><includeSSCAttribute name="src" item="artPath"><param>copycode.gif</param></includeSSCAttribute></img><includeSSC item="copyCode"></includeSSC></span></th></tr><tr><td colspan="2"><pre>PS C:\&gt;</pre></td></tr></table></span></div>
+				</cmdletCodeExample>
+			</cmdletCodeExamples>
+			<relatedLinks>
+				<onlineVersion>http://go.microsoft.com/fwlink/?LinkId=526864</onlineVersion>
+			</relatedLinks>
+		</PSCmdletHelpContent>
+	</topic>
+	<breadCrumbLinks>
+		<MSHelp:link keywords="4c8f9b54-86f0-4814-9914-a162afba1ee6" tabindex="0" xmlns:MSHelp="http://msdn.microsoft.com/mshelp" xmlns:ddue="http://ddue.schemas.microsoft.com/authoring/2003/5" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:tool="http://www.microsoft.com/tooltip">Example</MSHelp:link>
+	</breadCrumbLinks>
+	<keywords>
+		<keyword index="A" term="11456965-b9b2-4f57-a5ec-af89a62cc4e8">
+		</keyword>
+	</keywords>
+	<attributes>
+		<attribute name="updatedDate" value="2015/08/09">
+		</attribute>
+		<attribute name="Locale" value="kbEnglish">
+		</attribute>
+		<attribute name="AssetID" value="11456965-b9b2-4f57-a5ec-af89a62cc4e8">
+		</attribute>
+		<attribute name="TopicType" value="kbArticle">
+		</attribute>
+	</attributes>
+</topic>
