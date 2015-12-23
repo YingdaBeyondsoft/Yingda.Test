@@ -14,7 +14,7 @@ Contact olpechuk@microsoft.com for more information
 This is a quick tutorial regarding Open Publishing.
 
 Quick Start
------------
+-----------------------
 
 Start contributing to Open Publishing docs using the following steps:
 
