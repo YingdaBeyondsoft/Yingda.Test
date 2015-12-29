@@ -1,5 +1,5 @@
 # CE-CSI-Test
-C+E Content, Services and International team test repo for Open Publishing Service.  This test repo is private and internal to Microsoft.  Open Publishing Service repos can have public repos, which allows community contribution to documentation but this test will not allow public access...
+C+E Content, Services and International team test repo for Open Publishing Service.  This test repo is private and internal to Microsoft.  Open Publishing Service repos can have public repos, which allows community contribution to documentation but this test will not allow public access...............................
 
 Contact eric@microsoft.com for more information
 
