@@ -14,5 +14,5 @@
         }
     ],
     "notification_subscribers": ["v-yingdh@microsoft.com"],
-    "branches_to_filter": ["live"]
+    "branches_to_filter": ["master"]
 }
