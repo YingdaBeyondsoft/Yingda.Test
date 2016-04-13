@@ -1,4 +1,14 @@
 log/
+xhtml/
 packages/
+obj/
 _site/
+Tools/NuGet/
+_site/
+.vscode/
 
+.openpublishing.build.mdproj
+.openpublishing.buildcore.ps1
+packages.config
+.optemp
+settings.json
