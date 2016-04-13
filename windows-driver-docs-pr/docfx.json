@@ -10,15 +10,16 @@
     "resource": [
         {
           "files": ["**/images/**"],
-          "exclude": ["**/obj/**"]
+          "exclude": ["**/obj/**", "**/README.md"]
         }
     ],
     "globalMetadata": {
-        "ROBOTS": "INDEX, FOLLOW"
+        "ROBOTS": "INDEX, FOLLOW",
+        "product": "Windows"
     },
     "externalReference": [
     ],
     "template": "op.html",
-    "dest": "docs"
+    "dest": "windows-driver-docs-pr"
   }
 }
