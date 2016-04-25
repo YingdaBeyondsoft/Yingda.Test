@@ -46,6 +46,15 @@ No Space after :
 Multi Space after :
 ![TestArtScanUse][sd]
 
+"[" in the ID
+![TestArtScanUse][[ab]
+
+"]" in the ID
+![TestArtScanUse][a]b]
+
+"[]" in the ID
+![TestArtScanUse][[ab]]
+
 No Value in the ID
 ![TestArtScanUse][]
 
@@ -96,6 +105,10 @@ List the refernce of image, should no be shown
 
 [Image4]:.\Images\_TestArtScanNOTUse.bmp "Title"
 [sd]:    .\Images\_TestArtScanNOTUse.gif "Title"
+
+[[ab]:    .\Images\_TestArtScanNOTUse.gif "Title"
+[a]b]:    .\Images\_TestArtScanNOTUse.gif "Title"
+[[ab]]:    .\Images\_TestArtScanNOTUse.gif "Title"
 
 []:.\Images\_TestArtScanNOTUse.gif "Title"
 [ ]:.\Images\_TestArtScanNOTUse.gif "Title"
