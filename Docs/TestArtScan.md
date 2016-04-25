@@ -55,10 +55,6 @@ a Space value in the ID
 two space value in the ID
 ![TestArtScanUse][  ]
 
-
-
-
-
 ## In the Content
 There should be a image ![TestArtScanUse](.\Images\_TestArtScanUse_IntheContent.png)
 
@@ -97,10 +93,12 @@ List the refernce of image, should no be shown
 [Image1]: .\Images\_TestArtScanUse_NestedINTable_RA.jpg "Title"
 [Image2]: .\Images\_TestArtScanUse_NestedInList_RA.jpg "Title"
 [Image3]: .\Images\_TestArtScanUse_NestedInblock_RA.png "Title"
+
 [Image4]:.\Images\_TestArtScanNOTUse.bmp "Title"
+[sd]:    .\Images\_TestArtScanNOTUse.gif "Title"
+
 []:.\Images\_TestArtScanNOTUse.gif "Title"
 [ ]:.\Images\_TestArtScanNOTUse.gif "Title"
 [  ]:.\Images\_TestArtScanNOTUse.gif "Title"
-[sd]:    .\Images\_TestArtScanNOTUse.gif "Title"
 
 [IMAGE0]: .\Images\Desert.jpg "Title"
