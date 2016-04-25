@@ -19,7 +19,26 @@
 [IntheContent4]: .\Images\_TestArtScanUse_AIntheContent4.png "Title"
 
 Used in other topic too
-[Image0]: .\Images\_TestArtScanUse_RAddress.png "Title"
 [IMAGE0]: .\Images\Desert.jpg "Title"
 
+## In the content
+this is a image ![IntheContent][IntheContent] haha
+
+this is a image![IntheContent1][IntheContent1]haha
+
+this is a image![IntheContent2][IntheContent2] asdhaslk
+
+this is a image ![IntheContent3][IntheContent3]asdhaslk
+
+this is a image ![IntheContent3][IntheContent3]asdhaslk
+
+## no name Call
 ![][NoNameCall]
+
+## wrong ID call
+![WrongIDCall][WrongIDCall1]
+
+## multi call
+![WrongIDCall][firstcall][secondcall][IMAGE0]
+
+## multi call
