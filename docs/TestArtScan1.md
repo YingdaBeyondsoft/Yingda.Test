@@ -29,10 +29,10 @@
 ![a[12]a](.\Images\_TestArtScanUse_NOName - Copy.bmp)
 
 ### Nested Images
-![[12](.\Images\_TestArtScanUse_NOName - Copy.bmp)](.\Images\_TestArtScanUse_NOName - Copy.bmp)
+![[12](.\Images\_TestArtScanUse_NOName - Copy.bmp)](.\Images\Hydrangeas.jpg)
 
 ### with title
-![abc](.\Images\_TestArtScanUse_RA_NoTitile - Copy.jpeg  "Title" )
+![abc](.\Images\_TestArtScanUse_RA_NoTitile - Copy.jpeg  "Title")
 
 ### Wrong Address
 ![title](_TestArtScanUse_RA_WrongAddress - Copy.jpeg)
