@@ -3,8 +3,8 @@
     "report_severity_level": "Warning", 
     "docsets_to_publish": [
         {
-            "docset_name": "windows-driver-docs-pr",
-            "build_output_subfolder": "windows-driver-docs-pr",
+            "docset_name": "Docs",
+            "build_output_subfolder": "Docs",
             "locale": "en-us",
             "version": 0,
             "open_to_public_contributors": "false",
