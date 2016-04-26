@@ -26,7 +26,7 @@
 ![test][[DifferentID3]]
 
 ### "]""[" in the ID
-![test][D]ifferent[ID4]
+![test][ID4]
 
 ### no Space after :
 ![test][DifferentID5]
@@ -55,6 +55,8 @@
 
 ### Name with "[]"
 ![s]dsa[d][DifferentName4]
+
+![s][DifferentName4]
 
 
 
