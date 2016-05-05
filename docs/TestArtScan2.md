@@ -5,7 +5,7 @@
 
 [firstcall]: .\Images\_TestArtScanUse_AFirstCall.png "Title"
 [secondcall]: .\Images\_TestArtScanUse_ASecondCall.png "Title"
-[thirdcall]: .\Images\_TestArtScanUse_AThirdCall.png "Title"
+
 
 [nestedcall]: .\Images\_TestArtScanUse_ANestedCall.png "Title"
 [nestedcall1]: .\Images\_TestArtScanUse_ANestedCall1.png "Title"
