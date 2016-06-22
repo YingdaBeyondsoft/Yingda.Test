@@ -8,7 +8,6 @@
     } 
 }
 ```
-[!CODE-RESTAPI_Swagger [users_swagger2](./data/users_swagger2.json)]
 
 ### i'm a separator
 ```RESTAPI_Swagger
