@@ -1,5 +1,7 @@
 ---
-"ms.topic":"article"
+
+ms.topic: article
+
 ---
 
 <tags
