@@ -1,3 +1,11 @@
+---
+"ms.topic":"article"
+---
+
+<tags
+ms.service="backup"
+/>
+
 #Test Art Scan
 
 ## call different image tpye
