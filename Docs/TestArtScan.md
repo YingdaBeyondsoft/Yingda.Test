@@ -3,8 +3,13 @@
 ---
 
 <tags
-ms.service="backup"
-/>
+	ms.service="active-directory-b2c"
+	ms.workload="identity"
+	ms.tgt_pltfrm="na"
+	ms.devlang="na"
+	ms.topic="get-started-article"
+	ms.date="05/16/2016"
+	ms.author="swkrish"/>
 
 #Test Art Scan
 
