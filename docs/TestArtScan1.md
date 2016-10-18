@@ -1,5 +1,7 @@
 #Test Art Scan
 
+test
+
 ## call different image tpye
 
 ![TestArtScanUse](.\Images\_TestArtScanUse - Copy.bmp)
