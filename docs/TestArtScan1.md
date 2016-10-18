@@ -1,6 +1,6 @@
 #Test Art Scan
 
-test1
+asdasdtest1
 
 ## call different image tpye
 
