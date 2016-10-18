@@ -1,6 +1,6 @@
 #Test Art Scan
 
-test
+test1
 
 ## call different image tpye
 
