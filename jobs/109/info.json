@@ -1,4 +1,4 @@
-﻿{
+{
   "schemaVersion": "3",
   "jobId": 109,
   "files": [
@@ -12,7 +12,7 @@
     {
       "culture": "pt-br",
       "status": "handed-off",
-      "handBackETA": "",
+      "handBackETA": "2017-03-29T08:22",
       "handOffDate": "2016-09-30T23:29",
       "handBackDate": "",
       "integrationDate": ""
@@ -27,7 +27,5 @@
   "handOffType": "changeset",
   "priority": 1,
   "localizationType": "standard",
-  "workItems": "",
-  "workItemNumber": null,
-  "submittedBy": null
+  "workItems": ""
 }
