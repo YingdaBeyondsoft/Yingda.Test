@@ -1,0 +1,53 @@
+﻿{
+  "schemaVersion": "3",
+  "jobId": 108,
+  "files": [
+    {
+      "fileName": "Pages/ComparePowerBITableauQlik_before/Index_before.resx",
+      "wordCount": 888,
+      "sha": "a4f308dcbcd673fd99aec0acb3228d0d4ce71cef"
+    },
+    {
+      "fileName": "Pages/Pricing_before/Index_before.resx",
+      "wordCount": 613,
+      "sha": "40b0fb72176e95208db8c2279acf0035b130822d"
+    },
+    {
+      "fileName": "Shared_before/Integrations_before.resx",
+      "wordCount": 9774,
+      "sha": "462a04ceee785c3c3df9ab0604b37d748dbb728f"
+    },
+    {
+      "fileName": "Shared_before/Lefties_before/mobile_before.resx",
+      "wordCount": 476,
+      "sha": "462a04ceee785c3c3df9ab0604b37d748dbb728f"
+    },
+    {
+      "fileName": "Components_before/Footer_before.resx",
+      "wordCount": 42,
+      "sha": "04cfff3c4b3b692453fce12f506c39329fe4fe80"
+    }
+  ],
+  "cultures": [
+    {
+      "culture": "zh-cn",
+      "status": "integrated",
+      "handBackETA": "",
+      "handOffDate": "2016-08-05T17:18",
+      "handBackDate": "2016-08-09T23:55",
+      "integrationDate": "2016-08-08T14:31"
+    }
+  ],
+  "generated": "2016-08-05T17:18",
+  "fileCount": 5,
+  "latest": "d69ff3597aaea7307a83558ad58485cadc1525eb",
+  "branch": "master",
+  "status": "integrated",
+  "statusComment": "",
+  "handOffType": "individual-files",
+  "priority": 1,
+  "localizationType": "standard",
+  "workItems": "",
+  "workItemNumber": null,
+  "submittedBy": null
+}
