@@ -31,20 +31,20 @@
   "cultures": [
     {
       "culture": "zh-cn",
-      "status": "integrated",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "2016-08-05T17:18",
-      "handBackDate": "2016-08-09T23:55",
-      "integrationDate": "2016-08-08T14:31"
+      "handBackDate": "",
+      "integrationDate": ""
     }
   ],
   "generated": "2016-08-05T17:18",
   "fileCount": 5,
   "latest": "d69ff3597aaea7307a83558ad58485cadc1525eb",
   "branch": "master",
-  "status": "integrated",
+  "status": "handed-off",
   "statusComment": "",
-  "handOffType": "individual-files",
+  "handOffType": "changeset",
   "priority": 1,
   "localizationType": "standard",
   "workItems": "",
