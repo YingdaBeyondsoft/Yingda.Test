@@ -6,7 +6,7 @@
           "**/*.md",
           "**/*.yml"
         ],
-        "exclude": [         
+        "exclude": [
           "**/obj/**",
           "**/includes/**",
           "**/_themes/**"
@@ -15,11 +15,11 @@
         "dest": "."
       },
       {
-      "files": [
+        "files": [
           "**/*.md",
           "**/*.yml"
         ],
-        "exclude": [        
+        "exclude": [
           "**/obj/**",
           "**/includes/**",
           "**/_themes/**"
@@ -64,11 +64,11 @@
     "overwrite": [],
     "externalReference": [],
     "globalMetadata": {
-	    "bilingual_type": "hover over"
+      "bilingual_type": "hover over"
     },
     "fileMetadata": {},
     "template": [
       "docs.html"
-    ],
+    ]
   }
 }
