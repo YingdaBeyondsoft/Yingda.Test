@@ -11,7 +11,7 @@
   "cultures": [
     {
       "culture": "ar-sa",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -19,7 +19,7 @@
     },
     {
       "culture": "bg-bg",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -27,7 +27,7 @@
     },
     {
       "culture": "ca-es",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -35,7 +35,7 @@
     },
     {
       "culture": "da-dk",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -43,7 +43,7 @@
     },
     {
       "culture": "de-at",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -51,7 +51,7 @@
     },
     {
       "culture": "de-ch",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -59,7 +59,7 @@
     },
     {
       "culture": "el-gr",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -67,7 +67,7 @@
     },
     {
       "culture": "en-au",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -75,7 +75,7 @@
     },
     {
       "culture": "en-ca",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -83,7 +83,7 @@
     },
     {
       "culture": "en-gb",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -91,7 +91,7 @@
     },
     {
       "culture": "en-ie",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -99,7 +99,7 @@
     },
     {
       "culture": "en-in",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -107,7 +107,7 @@
     },
     {
       "culture": "en-my",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -115,7 +115,7 @@
     },
     {
       "culture": "en-nz",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -123,7 +123,7 @@
     },
     {
       "culture": "en-sg",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -131,7 +131,7 @@
     },
     {
       "culture": "en-za",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -139,7 +139,7 @@
     },
     {
       "culture": "es-mx",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -147,7 +147,7 @@
     },
     {
       "culture": "et-ee",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -155,7 +155,7 @@
     },
     {
       "culture": "eu-es",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -163,7 +163,7 @@
     },
     {
       "culture": "fi-fi",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -171,7 +171,7 @@
     },
     {
       "culture": "fr-be",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -179,7 +179,7 @@
     },
     {
       "culture": "fr-ca",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -187,7 +187,7 @@
     },
     {
       "culture": "fr-ch",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -195,7 +195,7 @@
     },
     {
       "culture": "gl-es",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -203,7 +203,7 @@
     },
     {
       "culture": "he-il",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -211,7 +211,7 @@
     },
     {
       "culture": "hi-in",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -219,7 +219,7 @@
     },
     {
       "culture": "hr-hr",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -227,7 +227,7 @@
     },
     {
       "culture": "id-id",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -235,15 +235,15 @@
     },
     {
       "culture": "is-is",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
     },
-	{
+    {
       "culture": "it-ch",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -251,7 +251,7 @@
     },
     {
       "culture": "kk-kz",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -259,7 +259,7 @@
     },
     {
       "culture": "lt-lt",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -267,7 +267,7 @@
     },
     {
       "culture": "lv-lv",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -275,7 +275,7 @@
     },
     {
       "culture": "ms-my",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -283,7 +283,7 @@
     },
     {
       "culture": "nb-no",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -291,7 +291,7 @@
     },
     {
       "culture": "nl-be",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -299,7 +299,7 @@
     },
     {
       "culture": "ro-ro",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -307,7 +307,7 @@
     },
     {
       "culture": "sk-sk",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -315,7 +315,7 @@
     },
     {
       "culture": "sl-si",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -323,7 +323,7 @@
     },
     {
       "culture": "sr-cyrl-rs",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -331,7 +331,7 @@
     },
     {
       "culture": "sr-latn-rs",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -339,7 +339,7 @@
     },
     {
       "culture": "th-th",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -347,7 +347,7 @@
     },
     {
       "culture": "uk-ua",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -355,7 +355,7 @@
     },
     {
       "culture": "vi-vn",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -363,7 +363,7 @@
     },
     {
       "culture": "zh-hk",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -371,7 +371,7 @@
     },
     {
       "culture": "de-de",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -379,7 +379,7 @@
     },
     {
       "culture": "es-es",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -387,7 +387,7 @@
     },
     {
       "culture": "fr-fr",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -395,7 +395,7 @@
     },
     {
       "culture": "ja-jp",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -403,7 +403,7 @@
     },
     {
       "culture": "ko-kr",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -411,7 +411,7 @@
     },
     {
       "culture": "pt-br",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -419,7 +419,7 @@
     },
     {
       "culture": "zh-cn",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -427,7 +427,7 @@
     },
     {
       "culture": "zh-tw",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -435,7 +435,7 @@
     },
     {
       "culture": "hu-hu",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -443,7 +443,7 @@
     },
     {
       "culture": "nl-nl",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -451,7 +451,7 @@
     },
     {
       "culture": "pl-pl",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -459,7 +459,7 @@
     },
     {
       "culture": "pt-pt",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -467,7 +467,7 @@
     },
     {
       "culture": "tr-tr",
-      "status": "",
+      "status": "handed-off",
       "handBackETA": "",
       "handOffDate": "",
       "handBackDate": "",
@@ -478,7 +478,7 @@
   "fileCount": 1,
   "latest": "7bcb74601cab7c1a67dcc02f94f08976a6fe8a49",
   "branch": "master",
-  "status": "",
+  "status": "handed-off",
   "statusComment": "",
   "handOffType": "changeset",
   "priority": 1,
