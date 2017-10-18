@@ -240,7 +240,8 @@
       "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
-    }{
+    },
+    {
       "culture": "it-ch",
       "status": "handed-off",
       "handBackETA": "",
