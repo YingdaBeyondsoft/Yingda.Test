@@ -6,14 +6,474 @@
       "fileName": "Pages/Index.resx",
       "wordCount": 70,
       "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78550"
+    },
+    {
+      "fileName": "Pages/123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890123456789012345678901234567890.md",
+      "wordCount": 70,
+      "sha": "e82e57ba04964f56c406eab5f14f75d3c6e78550"
     }
   ],
   "cultures": [
     {
+      "culture": "ar-sa",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "bg-bg",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ca-es",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "da-dk",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "de-at",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "de-ch",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "el-gr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-au",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-ca",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-gb",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-ie",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-in",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-my",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-nz",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-sg",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "en-za",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "es-mx",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "et-ee",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "eu-es",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "fi-fi",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "fr-be",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "fr-ca",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "fr-ch",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "gl-es",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "he-il",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "hi-in",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "hr-hr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "id-id",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "is-is",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    }{
+      "culture": "it-ch",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "kk-kz",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "lt-lt",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "lv-lv",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ms-my",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "nb-no",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "nl-be",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ro-ro",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "sk-sk",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "sl-si",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "sr-cyrl-rs",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "sr-latn-rs",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "th-th",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "uk-ua",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "vi-vn",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "zh-hk",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "de-de",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
       "culture": "es-es",
       "status": "handed-off",
-      "handBackETA": "2017-04-06T07:33",
-      "handOffDate": "2016-09-30T23:29",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "fr-fr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ja-jp",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "ko-kr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pt-br",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "zh-cn",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "zh-tw",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "hu-hu",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "nl-nl",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pl-pl",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "pt-pt",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
+      "handBackDate": "",
+      "integrationDate": ""
+    },
+    {
+      "culture": "tr-tr",
+      "status": "handed-off",
+      "handBackETA": "",
+      "handOffDate": "",
       "handBackDate": "",
       "integrationDate": ""
     }
