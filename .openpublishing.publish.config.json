@@ -1,7 +1,5 @@
 {
   "build_entry_point": "",
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "Docs",
@@ -37,7 +35,10 @@
   "notification_subscribers": [],
   "report_severity_level": "Warning",
   "branches_to_filter": [],
+  "git_repository_url_open_to_public_contributors": "https://github.com/YingdaBeyondsoft/Yingda.Test",
+  "git_repository_branch_open_to_public_contributors": "master",
   "skip_source_output_uploading": false,
+  "contribution_branch_mappings": {},
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -46,5 +47,8 @@
       "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+  "branch_target_mapping": {},
+  "need_generate_pdf_url_template": false,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
