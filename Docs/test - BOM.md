@@ -102,7 +102,7 @@ Link to 3-4 logical next steps: Ex. Quickstart, pricing info and SLA, tutorial. 
 -->
 *NEXT STEPS EXAMPLE:*
 
-Now that you have an overview of SQL Database here are suggested next steps: 
+Now that you have an overview of SQL Database here are suggested next steps:
 
 - Get started by [creating your first database](https://docs.microsoft.com/azure/sql-database/sql-database-get-started-portal).
 - Build your first app in C#, Java, Node.js, PHP, Python, or Ruby: [Connection libraries for SQL Database and SQL Server](https://docs.microsoft.com/azure/sql-database/sql-database-libraries)
